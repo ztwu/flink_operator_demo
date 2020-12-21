@@ -97,6 +97,12 @@
     </dependency>
 
     <dependency>
+      <groupId>org.apache.flink</groupId>
+      <artifactId>flink-table_${scala.binary.version}</artifactId>
+      <version>1.7.2</version>
+    </dependency>
+
+    <dependency>
       <groupId>org.apache.bahir</groupId>
       <artifactId>flink-connector-redis_${scala.binary.version}</artifactId>
       <version>1.0</version>
