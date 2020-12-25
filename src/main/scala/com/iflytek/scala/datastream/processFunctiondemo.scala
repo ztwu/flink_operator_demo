@@ -1,4 +1,4 @@
-package com.iflytek.scala
+package com.iflytek.scala.datastream
 
 import java.util.Random
 

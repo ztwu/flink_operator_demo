@@ -1,9 +1,8 @@
-package com.iflytek.scala
+package com.iflytek.scala.dataset
 
 import org.apache.flink.api.common.operators.Order
 import org.apache.flink.api.scala.ExecutionEnvironment
 import org.apache.flink.api.scala._
-
 import scala.collection.mutable.ListBuffer
 
 object datasetoperate {
