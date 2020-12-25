@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="flink_kafka_hbase_demo" />
+        <module name="flink_operator_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="flink_kafka_hbase_demo" target="1.8" />
+      <module name="flink_operator_demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
